@@ -1,2 +1,2 @@
-# random_quotes
--Random quote generator made for a freeCodeCamp project
+# Random Quote Generator
+-A random quote generator made for a freeCodeCamp project
