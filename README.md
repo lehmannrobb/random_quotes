@@ -1,2 +1,2 @@
 # random_quotes
-Random quote generator
+-Random quote generator made for a freeCodeCamp project
